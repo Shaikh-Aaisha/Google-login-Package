@@ -31,5 +31,5 @@ GOOGLE_CLIENT_SECRET="your client secret id"
 REDIRECT_URL="Your redirct URL"
 ```
 
-Add google_id column in Users table.
-Add google login button on login page and assign the route as "route('auth.google')".
+Add google_id column in Users table
+and google login button on login page and assign the route as "route('auth.google')".
